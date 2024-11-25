@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Program%20Files/Git/nuxtui-pro-docs2/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
