@@ -2,13 +2,13 @@ title: 'Nuxt UI Pro - Docs template'
 description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
 navigation: false
 hero:
-  title: 'Build your doc in seconds'
-  description: 'Create your document in seconds with this template!'
+  title: 'Build your doc in mere seconds'
+  description: 'Create your document with this template!'
   orientation: horizontal
-  headline:
-    label: Made with Nuxt UI Pro
-    to: https://ui.nuxt.com/pro
-    icon: i-heroicons-arrow-top-right-on-square-20-solid
+  //headline:
+    //label: Made with Nuxt UI Pro
+    //to: https://ui.nuxt.com/pro
+    //icon: i-heroicons-arrow-top-right-on-square-20-solid
   links:
     - label: Get started
       icon: i-heroicons-arrow-right-20-solid
@@ -21,10 +21,10 @@ hero:
       color: gray
       to: https://github.com/nuxt-ui-pro/docs
       target: _blank
-  code: |
-    ```bash [Terminal]
-    npx nuxi init -t github:nuxt-ui-pro/docs
-    ```
+  //code: |
+    //```bash [Terminal]
+    //npx nuxi init -t github:nuxt-ui-pro/docs
+    //```
 features:
   title: 'All-in-one docs template'
   links:
